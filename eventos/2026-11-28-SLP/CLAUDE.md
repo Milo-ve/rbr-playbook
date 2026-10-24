@@ -11,7 +11,7 @@ Se trabajan en paralelo; el número marca cuándo arranca cada una.
 | Etapa               | Qué hace                                          | Salida                                          |
 | ------------------- | ------------------------------------------------- | ----------------------------------------------- |
 | `00_alta`           | Completar la ficha y asignar roles                | `roles.md`                                      |
-| `01_presupuesto`    | Presupuesto y break even                          | `presupuesto.md`                                |
+| `01_presupuesto`    | Presupuesto y break even                          | `estado.md` (cifras en `private/`)              |
 | `02_adquisicion`    | Textos, artes, distribución, registro             | `materiales.md`, `registro.md`                  |
 | `03_sponsors`       | Sponsors, perks, factura y cobro                  | `sponsors.md`                                   |
 | `04_operaciones`    | Venue, comida, snacks, swag, staff                | `proveedores.md`, `compras.md`                  |

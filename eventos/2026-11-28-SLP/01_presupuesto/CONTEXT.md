@@ -19,10 +19,12 @@ Do NOT load: `../03_sponsors/private/` (montos de sponsors) salvo que la persona
 3. Calcula con las reglas del playbook; **muestra cada cuenta**. Ninguna cifra sale de cabeza.
 4. Entrega costos por categoría en moneda local y USD, tickets netos, break even contra la meta y lo confirmado, y las alertas.
 5. Valores que no estén en una fuente (comisión de Stripe, supuestos por ciudad) se marcan `por confirmar`.
+6. **Las cifras no se versionan.** Guarda el presupuesto completo en `private/` y escribe en `output/estado.md` solo el estado: borrador o aprobado, fecha, quién aprobó y qué falta. Sin montos.
 
 ## Outputs
 
-- presupuesto.md → output/
+- presupuesto.md → private/ (cifras; no se versiona)
+- estado.md → output/ (sin cifras)
 
 ## Human check
 

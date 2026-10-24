@@ -19,10 +19,10 @@ Solo nombre, ciudad y rol. Sin teléfonos personales ni datos de contacto.
 
 ## Dinero
 
-- Montos de sponsors, facturas y datos de cobro van en `private/` dentro de la carpeta del evento. Está ignorado por git.
+- Presupuestos, montos de sponsors, facturas y datos de cobro van en `private/` dentro de la carpeta del evento. Está ignorado por git.
 - Cada evento ve sus propias finanzas, no las de otros eventos.
 - El P&L consolidado del negocio y el modelo de inversión no viven en este repo.
 
 ## Repo
 
-Sin remote hasta que se decida explícitamente. Antes de publicar nada, revisar que no haya datos personales ni montos.
+El repositorio es privado en GitHub y solo lo ven las personas que su dueño agregue como colaboradoras. Aun así, nada de lo que dice esta página como privado se sube: lo cubren `private/` y `_private/`, y `npm run check` y la revisión de GitHub avisan si aparece un monto, un correo o un teléfono.

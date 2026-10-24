@@ -126,7 +126,7 @@ export function runChecks(root: string): Issue[] {
       }
     }
 
-    if (/\/03_sponsors\/output\/[^/]+\.md$/.test(file) && hasMoneyAmount(text)) {
+    if (/\/(03_sponsors|01_presupuesto)\/output\/[^/]+\.md$/.test(file) && hasMoneyAmount(text)) {
       add("warn", file, "posible monto de dinero en un archivo versionado; los montos van en private/");
     }
 

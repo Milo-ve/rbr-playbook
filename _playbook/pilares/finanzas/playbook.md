@@ -8,7 +8,7 @@ fuente: PM docs 06-finanzas (2026-10-24)
 
 Presupuesto antes, gastos reales después y P&L del evento. En un evento corresponde a las etapas `01_presupuesto` y `06_cierre`. Aquí solo se lleva **el P&L de su propio evento**; el consolidado del negocio no vive en este repo.
 
-Tareas con fechas: [tareas.md](tareas.md). Montos reales y facturas van en `private/` del evento (no se versionan).
+Tareas con fechas: [tareas.md](tareas.md). Los presupuestos, los montos reales y las facturas van en `private/` del evento (no se versionan).
 
 ## Principios
 
@@ -42,7 +42,7 @@ Se arma desde los supuestos por ciudad (tab _P&L assumptions_ del Weekly Sync). 
 1. Identificar el evento. Sin fecha no se puede presupuestar.
 2. Preguntar en un solo mensaje: quién viaja y cuántas noches, precio del boleto, costo del venue, cortesías.
 3. **Borrador** en moneda local y USD: costos por categoría, tickets netos, break even contra meta y confirmado, alertas.
-4. Solo con el OK de quien lidera se guarda en `01_presupuesto/output/` y se pregunta si se marca T097.
+4. Solo con el OK de quien lidera se guarda. El presupuesto con cifras va en `01_presupuesto/private/` (no se versiona). En `01_presupuesto/output/estado.md` solo se anota el estado, sin montos. Se pregunta si se marca T097.
 
 **Alertas a revisar:** % de cortesías o supplies tomado de otra ciudad, precio convertido en vez de dado, venue reservado que podría ser en especie, falta de historial de supplies, meta de sponsors por debajo del break even, evento tentativo, líneas que no vienen de los supuestos.
 

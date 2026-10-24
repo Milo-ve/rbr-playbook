@@ -5,7 +5,7 @@ One job: cerrar el evento con sus números reales y lo aprendido.
 ## Inputs
 
 - Working (este evento): ../EVENTO.md
-- Working (este evento): ../01_presupuesto/output/presupuesto.md
+- Working (este evento): ../01_presupuesto/private/presupuesto.md (cifras; no se versiona)
 - Working (este evento): ../03_sponsors/output/sponsors.md
 - Working (este evento): private/ (gastos reales, facturas, export final; no se versiona)
 - Reference (siempre): ../../../_playbook/pilares/participantes/playbook.md

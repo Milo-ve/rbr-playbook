@@ -140,3 +140,20 @@ describe("the real repo", () => {
     expect(hasMoneyAmount(JSON.stringify(d.sponsors))).toBe(false);
   });
 });
+
+describe("check: money in the tracked budget folder", () => {
+  it("warns when an amount appears in 01_presupuesto/output", () => {
+    const root = mkdtempSync(join(tmpdir(), "rbr-budget-"));
+    try {
+      cpSync(join(REAL, "_playbook"), join(root, "_playbook"), { recursive: true });
+      cpSync(join(REAL, "_templates"), join(root, "_templates"), { recursive: true });
+      const r = stampEvent({ root, city: "X", code: "XXX", date: "2027-01-10", currency: "MXN", newCity: true, model: "estandar", today: "2026-10-24" });
+      writeFileSync(join(r.dir, "01_presupuesto", "output", "estado.md"), "Catering: 12000 MXN");
+      expect(runChecks(root).some((i) => i.level === "warn" && i.message.includes("monto"))).toBe(true);
+      writeFileSync(join(r.dir, "01_presupuesto", "output", "estado.md"), "Estado: borrador. Falta la cotización de catering.");
+      expect(runChecks(root).some((i) => i.message.includes("monto"))).toBe(false);
+    } finally {
+      rmSync(root, { recursive: true, force: true });
+    }
+  });
+});
