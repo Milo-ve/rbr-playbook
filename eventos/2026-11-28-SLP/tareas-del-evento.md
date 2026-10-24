@@ -43,7 +43,7 @@ Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Estados
 | [ ] | T060 | Diseñar 3 opciones de swag y elegir (con sponsors confirmados) | 2026-10-31 | ops_central | operaciones | |
 | [ ] | T041 | Pedir 2-3 cotizaciones | 2026-11-04 | ops_central | operaciones |  |
 | [ ] | T014 | Compartir a mano en grupos de WhatsApp | 2026-11-07 | oos | adquisicion |  |
-| [ ] | T018 | Emitir factura y cobrar | 2026-11-07 | partnerships | sponsors |  |
+| [ ] | T018 | Emitir factura y cobrar | 2026-11-07 | partnerships | sponsors | 2026-10-24 Milo: sponsors aportaron dinero, aún no se ve el pago; dejar abierta |
 | [ ] | T020 | Iniciar onboarding del sponsor | 2026-11-07 | partnerships | sponsors |  |
 | [ ] | T021 | Agregar al sponsor a los correos del evento | 2026-11-07 | partnerships | sponsors |  |
 | [ ] | T022 | Agregar el contacto del sponsor al grupo de WhatsApp | 2026-11-07 | partnerships | sponsors |  |

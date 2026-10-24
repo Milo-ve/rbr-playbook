@@ -9,10 +9,12 @@ Sin montos: esos van en `private/` (no se versiona). "por confirmar" significa q
 
 | Sponsor   | Qué es                                                                                            | Estado comercial | Etapa         | Logo           | En WhatsApp   | Media kit     | Fuente                              |
 | --------- | ------------------------------------------------------------------------------------------------- | ---------------- | ------------- | -------------- | ------------- | ------------- | ----------------------------------- |
-| Zillow    | Zillow México: vacantes abiertas                                                                  | confirmed        | Cerrada       | sí             | por confirmar | por confirmar | Milo, 2026-10-24; página del evento |
-| Intercom  | Plataforma de atención al cliente, con programa para startups                                     | confirmed        | Cerrada       | sí             | por confirmar | por confirmar | Milo, 2026-10-24; página del evento |
-| Improvitz | [improvitz.com](https://improvitz.com/): Go-to-Market Engineering y prospección B2B con IA        | confirmed        | por confirmar | sí (del sitio) | por confirmar | por confirmar | Milo, 2026-10-24                    |
-| Vravura   | [vravura.com](https://vravura.com/): estudio de estrategia de innovación, diseño de sistemas e IA | confirmed        | por confirmar | sí (del sitio) | por confirmar | por confirmar | Milo, 2026-10-24                    |
+| Zillow    | Zillow México: vacantes abiertas                                                                  | confirmed        | Cerrada | sí             | por confirmar | por confirmar | Milo, 2026-10-24; página del evento |
+| Intercom  | Plataforma de atención al cliente, con programa para startups                                     | confirmed        | Cerrada | sí             | por confirmar | por confirmar | Milo, 2026-10-24; página del evento |
+| Improvitz | [improvitz.com](https://improvitz.com/): Go-to-Market Engineering y prospección B2B con IA        | confirmed        | Cerrada | sí (del sitio) | por confirmar | por confirmar | Milo, 2026-10-24                    |
+| Vravura   | [vravura.com](https://vravura.com/): estudio de estrategia de innovación, diseño de sistemas e IA | confirmed        | Cerrada | sí (del sitio) | por confirmar | por confirmar | Milo, 2026-10-24                    |
+
+**Dinero:** Milo dijo el 2026-10-24 que los cuatro aportaron dinero, pero **todavía no se ve el pago**. Por eso la etapa es *Cerrada* (confirmado, sin cobrar). Si ya se mandó factura, no se sabe. Los montos van en `private/`, no aquí. T018 sigue abierta a petición de Milo.
 
 Solo estos cuatro son sponsors de SLP. Milo confirmó el 2026-10-24 que **Dapta, Stripe, AWS, Blinka y Contalink no lo son**, aunque aparecían en el recordatorio de perks de otro evento. Flexoffices (la sede de CDMX) tampoco aparece como sponsor de SLP.
 
@@ -47,8 +49,7 @@ Los del sitio se conservan como respaldo:
 ## Pendiente
 
 - Si el flyer lleva fondo oscuro, falta una versión de alta resolución del logo de Vravura en blanco o con transparencia.
-- Etapa de Improvitz y Vravura (cerrada, facturada, cobrada): hoy no se sabe.
-- Estado de factura y cobro de los cuatro (T018). Los montos van en `private/`.
+- **Cobro de los cuatro (T018, abierta):** dinero comprometido, no recibido. Falta saber si ya se facturó a cada uno y los montos (van en `private/`).
 - Si cada deal ya se registró (T016).
 - Contacto de cada sponsor en el grupo de WhatsApp (T022) y media kit (T025).
 - Avisar al MC (T027) y compartir los perks en WhatsApp (T026, a −7 días).
