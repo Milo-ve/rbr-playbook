@@ -46,7 +46,7 @@ Fechas relativas al día del evento (T). Las tareas exactas están en `eventos/<
 
 ## Scripts
 
-`npm run stamp` crea un evento nuevo · `npm run index` reconstruye el índice · `npm run check` valida la estructura.
+`npm run stamp` crea un evento nuevo · `npm run index` reconstruye el índice · `npm run check` valida la estructura. · `npm run site` genera la página web de solo lectura (ver `setup/publicar-sitio.md`).
 
 ## Tablero (vista visual, solo lectura)
 

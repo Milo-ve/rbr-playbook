@@ -51,4 +51,9 @@ Los cambios al método se proponen con una rama y un pull request, no directo en
 | `npm run index`                                   | Reconstruye el índice de eventos                                                   |
 | `npm run check`                                   | Revisa enlaces, contratos de etapa, tamaño de los archivos de entrada y privacidad |
 | `npm run dashboard-data`                          | Genera los datos del tablero visual                                                |
+| `npm run site` | Genera la página web de solo lectura en `dist/site` (sin datos salvo `SITE_PUBLISH=1`) |
 | `npm test`                                        | Corre las pruebas                                                                  |
+
+## Sitio web
+
+Hay una página de solo lectura que se reconstruye con cada cambio a `main` y que solo abren las personas autorizadas por correo. Cómo publicarla y protegerla: [setup/publicar-sitio.md](setup/publicar-sitio.md).

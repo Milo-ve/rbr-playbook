@@ -9,10 +9,14 @@
     "stamp": "tsx scripts/stamp-event.ts",
     "index": "tsx scripts/build-index.ts",
     "mark": "tsx scripts/mark-task.ts",
-    "dashboard-data": "tsx scripts/build-dashboard-data.ts"
+    "dashboard-data": "tsx scripts/build-dashboard-data.ts",
+    "site": "tsx scripts/build-site.ts",
+    "build:site": "npm run check && npm run site"
   },
   "devDependencies": {
+    "@types/jsdom": "^21.1.7",
     "@types/node": "^22.20.5",
+    "jsdom": "^26.1.0",
     "tsx": "^4.23.15",
     "typescript": "^5.9.3",
     "vitest": "^2.1.9"

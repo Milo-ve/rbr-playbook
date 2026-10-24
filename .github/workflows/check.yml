@@ -1,0 +1,28 @@
+name: check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .node-version
+          cache: npm
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run check
+      # Builds the page with data only to prove the privacy guard passes: an email, phone
+      # or amount in the tracked event files fails the build. Nothing is deployed from here.
+      - run: npm run site
+        env:
+          SITE_PUBLISH: "1"
