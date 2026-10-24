@@ -18,7 +18,7 @@ generado: 2026-10-24
 - Registro: https://www.releasebeforeready.com/es/eventos/release-before-ready-san-luis-potosi-28-noviembre-2026
 - Giro: primera edición community-led de RBR en SLP, organizada por builders de la comunidad de desarrollo con IA
 
-**Sponsors y perks:** Zillow, Intercom, Improvitz y Vravura (confirmados por Milo el 2026-10-24). Perks: solo Intercom y Zillow, del recordatorio de perks que Milo pegó; Improvitz y Vravura se nombran como apoyo hasta que se defina su perk. Dapta, Stripe, AWS, Blinka y Contalink **no** son sponsors de SLP. Sin montos.
+**Sponsors y perks:** Zillow, Intercom, Improvitz y Vravura (confirmados por Milo el 2026-10-24). Perks: solo Intercom y Zillow, del recordatorio de perks que Milo pegó. Improvitz y Vravura no dan perk (Milo) y se nombran como apoyo. Dapta, Stripe, AWS, Blinka y Contalink **no** son sponsors de SLP. Sin montos.
 
 ---
 
@@ -129,7 +129,7 @@ Registro: https://www.releasebeforeready.com/es/eventos/release-before-ready-san
   - Parque de Emprendimiento e Innovación, Tec de Monterrey SLP
   - $500 MXN · incluye coffee break, snacks, comida y swag
 - **CTA:** Regístrate en releasebeforeready.com
-- **Franja de logos:** RBR, Tec de Monterrey, Zillow, Intercom, Improvitz y Vravura. Logos de Zillow e Intercom recibidos; faltan los de Improvitz y Vravura.
+- **Franja de logos:** RBR, Tec de Monterrey, Zillow, Intercom, Improvitz y Vravura. Los logos están en `../../03_sponsors/output/assets/`. Los de Improvitz y Vravura son de sus sitios web: el de Vravura es pequeño (264×76 px) y el de Improvitz usa texto del sistema, así que el equipo debería pedirles versiones para impresión.
 
 ---
 
@@ -154,7 +154,7 @@ Registro: https://www.releasebeforeready.com/es/eventos/release-before-ready-san
 
 1. **Swag.** La página oficial lo anuncia, pero todavía se está cotizando. Si no llega a tiempo, quítalo de todas las piezas.
 2. **Giro.** Está redactado con tu propuesta. Alternativas, por si prefieres otra: "Hecha por builders de SLP, para SLP" o "La primera RBR que nace en la comunidad local".
-3. **Sponsors y perks.** Verifica que el perk de Intercom (100% el primer año, 50% el segundo, 20% continuo) sea el vigente y si su programa tiene requisitos de elegibilidad. Improvitz y Vravura aparecen solo como apoyo, sin perk: si tienen uno, dímelo y lo agrego. Faltan sus logos para el flyer.
+3. **Sponsors y perks.** Verifica que el perk de Intercom (100% el primer año, 50% el segundo, 20% continuo) sea el vigente y si su programa tiene requisitos de elegibilidad. Improvitz y Vravura aparecen solo como apoyo, porque no dan perk.
 4. **Hashtags.** `#SanLuisPotosí` y `#SLP` son propuestas; no hay hashtags oficiales para esta edición.
 5. **"500 Latam".** El post de LinkedIn usa "500 Latam", como pide la guía original, aunque la página del evento escribe "500 Global".
 6. **Palabra "hackatón".** No se usa, porque la guía original no la usa. La página sí.
