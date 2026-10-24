@@ -11,7 +11,7 @@ Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Estados
 | Hecho | ID | Tarea | Fecha | Rol | Pilar | Nota |
 |---|---|---|---|---|---|---|
 | [x] | T001 | Confirmar la fecha del evento (habilita todo lo demás en eventos tentativos) | 2026-10-03 | ops_central | adquisicion | 2026-10-24 fecha publicada en la página del evento |
-| [~] | T097 | Armar el presupuesto con los supuestos por ciudad | 2026-10-10 | ops_central | finanzas | 2026-10-24 borrador en 01_presupuesto/output/presupuesto.md; faltan cotizaciones |
+| [~] | T097 | Armar el presupuesto con los supuestos por ciudad | 2026-10-10 | ops_central | finanzas | 2026-10-24 borrador en 01_presupuesto/private/presupuesto.md (no versionado); faltan cotizaciones |
 | [x] | T029 | Buscar venues que cumplan requisitos | 2026-10-17 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
 | [x] | T030 | Validar specs: capacidad, internet, energía, mesas, espacios, 12 horas | 2026-10-17 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
 | [x] | T031 | Revisar el directorio de venues aprobados | 2026-10-17 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
