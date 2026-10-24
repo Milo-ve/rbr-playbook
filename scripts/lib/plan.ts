@@ -79,7 +79,7 @@ export function renderTasksMarkdown(id: string, tasks: EventTask[]): string {
     "",
     `# Tareas de ${id}`,
     "",
-    "Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Marca `[x]` al terminar; las fechas son fecha del evento + días de la plantilla. Si cambia la fecha del evento hay que recalcular las fechas a mano: todavía no existe un script para moverlo (pendiente).",
+    "Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Estados: `[ ]` pendiente · `[~]` en curso · `[x]` hecha · `[-]` no aplica (se cambian con `npm run mark`); las fechas son fecha del evento + días de la plantilla. Si cambia la fecha del evento hay que recalcular las fechas a mano: todavía no existe un script para moverlo (pendiente).",
     "",
     "| Hecho | ID | Tarea | Fecha | Rol | Pilar | Nota |",
     "|---|---|---|---|---|---|---|",

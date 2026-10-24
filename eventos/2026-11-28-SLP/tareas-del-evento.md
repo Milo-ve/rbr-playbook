@@ -6,18 +6,18 @@ total: 93
 
 # Tareas de 2026-11-28-SLP
 
-Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Marca `[x]` al terminar; las fechas son fecha del evento + días de la plantilla. Si cambia la fecha del evento hay que recalcular las fechas a mano: todavía no existe un script para moverlo (pendiente).
+Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Estados: `[ ]` pendiente · `[~]` en curso · `[x]` hecha · `[-]` no aplica (se cambian con `npm run mark`); las fechas son fecha del evento + días de la plantilla. Si cambia la fecha del evento hay que recalcular las fechas a mano: todavía no existe un script para moverlo (pendiente).
 
 | Hecho | ID | Tarea | Fecha | Rol | Pilar | Nota |
 |---|---|---|---|---|---|---|
-| [ ] | T001 | Confirmar la fecha del evento (habilita todo lo demás en eventos tentativos) | 2026-10-03 | ops_central | adquisicion |  |
+| [x] | T001 | Confirmar la fecha del evento (habilita todo lo demás en eventos tentativos) | 2026-10-03 | ops_central | adquisicion | 2026-10-24 fecha publicada en la página del evento |
 | [ ] | T097 | Armar el presupuesto con los supuestos por ciudad | 2026-10-10 | ops_central | finanzas |  |
-| [ ] | T029 | Buscar venues que cumplan requisitos | 2026-10-17 | ops_central | operaciones |  |
-| [ ] | T030 | Validar specs: capacidad, internet, energía, mesas, espacios, 12 horas | 2026-10-17 | ops_central | operaciones |  |
-| [ ] | T031 | Revisar el directorio de venues aprobados | 2026-10-17 | ops_central | operaciones |  |
-| [ ] | T032 | Validar disponibilidad y costo para la fecha | 2026-10-17 | ops_central | operaciones |  |
-| [ ] | T052 | Asignar MC y Ops On-Site | 2026-10-17 | ops_central | operaciones |  |
-| [ ] | T053 | Reclutar y asignar voluntarios (ex-asistentes) | 2026-10-17 | ops_central | operaciones |  |
+| [x] | T029 | Buscar venues que cumplan requisitos | 2026-10-17 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
+| [x] | T030 | Validar specs: capacidad, internet, energía, mesas, espacios, 12 horas | 2026-10-17 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
+| [x] | T031 | Revisar el directorio de venues aprobados | 2026-10-17 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
+| [x] | T032 | Validar disponibilidad y costo para la fecha | 2026-10-17 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
+| [x] | T052 | Asignar MC y Ops On-Site | 2026-10-17 | ops_central | operaciones | 2026-10-24 Milo: MC, 2 OOS asignados (ver roles.md) |
+| [x] | T053 | Reclutar y asignar voluntarios (ex-asistentes) | 2026-10-17 | ops_central | operaciones | 2026-10-24 Milo: 3 voluntarios asignados (ver roles.md) |
 | [ ] | T057 | Revisar capacidad y presupuesto de la ciudad (sponsors, asistentes, propósito del swag) | 2026-10-17 | ops_central | operaciones |  |
 | [ ] | T002 | Activar el evento en el RBR admin | 2026-10-24 | ops_central | adquisicion |  |
 | [ ] | T003 | Crear el grupo de WhatsApp del evento | 2026-10-24 | ops_central | adquisicion |  |
@@ -26,12 +26,12 @@ Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Marca `
 | [ ] | T008 | Primer correo a la base de datos (al activar) | 2026-10-24 | ops_central | adquisicion |  |
 | [ ] | T009 | Anunciar en el grupo general de WhatsApp de RBR | 2026-10-24 | oos | adquisicion |  |
 | [ ] | T017 | Pedir specs al sponsor: logo, perk, datos | 2026-10-24 | partnerships | sponsors |  |
-| [ ] | T033 | Reservar (anticipo solo si el venue lo pide) | 2026-10-24 | ops_central | operaciones |  |
+| [x] | T033 | Reservar (anticipo solo si el venue lo pide) | 2026-10-24 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
 | [ ] | T039 | Revisar directorio de caterers aprobados o buscar otros | 2026-10-24 | ops_central | operaciones |  |
-| [ ] | T058 | Definir número de piezas de swag (15% más que confirmados) | 2026-10-24 | ops_central | operaciones | condicional: Sin swag, salvo patrocinio (por confirmar) |
-| [ ] | T059 | Elegir item del catálogo de swag | 2026-10-24 | ops_central | operaciones | condicional: Sin swag, salvo patrocinio (por confirmar) |
+| [ ] | T058 | Definir número de piezas de swag (15% más que confirmados) | 2026-10-24 | ops_central | operaciones | |
+| [ ] | T059 | Elegir item del catálogo de swag | 2026-10-24 | ops_central | operaciones | |
 | [ ] | T019 | Avisar a Ops Central que agregue el logo a flyers y artes | 2026-10-28 | partnerships | sponsors |  |
-| [ ] | T024 | Agregar el perk del sponsor al swag | 2026-10-28 | ops_central | sponsors | condicional: El perk al swag solo si hay swag patrocinado (por confirmar) |
+| [ ] | T024 | Agregar el perk del sponsor al swag | 2026-10-28 | ops_central | sponsors | |
 | [ ] | T006 | Lanzar campaña en Instagram | 2026-10-31 | ops_central | adquisicion |  |
 | [ ] | T007 | Lanzar campaña en LinkedIn (cuenta 500 Latam) | 2026-10-31 | ops_central | adquisicion |  |
 | [ ] | T010 | Invitar a la comunidad de 500 | 2026-10-31 | partnerships | adquisicion |  |
@@ -40,7 +40,7 @@ Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Marca `
 | [ ] | T013 | Conseguir 5-10 participantes por contactos directos | 2026-10-31 | partnerships | adquisicion |  |
 | [ ] | T040 | Definir menú y cantidad (capacidad + 10-15%) | 2026-10-31 | ops_central | operaciones |  |
 | [ ] | T051 | Invitar al equipo de embajadores locales | 2026-10-31 | ops_central | operaciones |  |
-| [ ] | T060 | Diseñar 3 opciones de swag y elegir (con sponsors confirmados) | 2026-10-31 | ops_central | operaciones | condicional: Sin swag, salvo patrocinio (por confirmar) |
+| [ ] | T060 | Diseñar 3 opciones de swag y elegir (con sponsors confirmados) | 2026-10-31 | ops_central | operaciones | |
 | [ ] | T041 | Pedir 2-3 cotizaciones | 2026-11-04 | ops_central | operaciones |  |
 | [ ] | T014 | Compartir a mano en grupos de WhatsApp | 2026-11-07 | oos | adquisicion |  |
 | [ ] | T018 | Emitir factura y cobrar | 2026-11-07 | partnerships | sponsors |  |
@@ -48,14 +48,14 @@ Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Marca `
 | [ ] | T021 | Agregar al sponsor a los correos del evento | 2026-11-07 | partnerships | sponsors |  |
 | [ ] | T022 | Agregar el contacto del sponsor al grupo de WhatsApp | 2026-11-07 | partnerships | sponsors |  |
 | [ ] | T042 | Elegir caterer | 2026-11-07 | ops_central | operaciones |  |
-| [ ] | T061 | Pedir factura y pagar el swag | 2026-11-07 | ops_central | operaciones | condicional: Sin swag, salvo patrocinio (por confirmar) |
+| [ ] | T061 | Pedir factura y pagar el swag | 2026-11-07 | ops_central | operaciones | |
 | [ ] | T023 | Agregar al sponsor a la lista de participantes (cortesía en el admin) | 2026-11-14 | ops_central | sponsors |  |
 | [ ] | T025 | Preparar y enviar media kit para sus redes | 2026-11-14 | partnerships | sponsors |  |
 | [ ] | T034 | Confirmar contacto del personal del edificio y requisitos de acceso | 2026-11-14 | ops_central | operaciones |  |
 | [ ] | T043 | Definir opción de respaldo | 2026-11-14 | ops_central | operaciones |  |
 | [ ] | T048 | Cotizar según lista estándar y capacidad (Supplies Playbook) | 2026-11-14 | ops_central | operaciones |  |
 | [ ] | T054 | Confirmar que MC y OOS leyeron sus guías | 2026-11-14 | ops_central | operaciones |  |
-| [ ] | T062 | Enviar el swag al venue u oficina del embajador (llega máximo 2 días antes) | 2026-11-14 | ops_central | operaciones | condicional: Sin swag, salvo patrocinio (por confirmar) |
+| [ ] | T062 | Enviar el swag al venue u oficina del embajador (llega máximo 2 días antes) | 2026-11-14 | ops_central | operaciones | |
 | [ ] | T069 | Crear el reto de Dev Racing (si aplica) | 2026-11-14 | mc | operaciones | condicional: Sin premio de Dev Racing; la tarea ya dice "si aplica" (por confirmar) |
 | [ ] | T015 | Esfuerzos de último minuto si va bajo 80% | 2026-11-21 | partnerships | adquisicion |  |
 | [ ] | T026 | Compartir el perk en WhatsApp | 2026-11-21 | partnerships | sponsors |  |
@@ -75,7 +75,7 @@ Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Marca `
 | [ ] | T074 | Coordinar con Ops Central hora de entrega y acceso al edificio | 2026-11-21 | oos | operaciones |  |
 | [ ] | T049 | Hacer pedido de supplies | 2026-11-25 | ops_central | operaciones |  |
 | [ ] | T037 | Mandar lista de asistentes para acceso | 2026-11-26 | ops_central | operaciones |  |
-| [ ] | T063 | Recibir y verificar swag, organizar por tallas | 2026-11-26 | oos | operaciones | condicional: Sin swag, salvo patrocinio (por confirmar) |
+| [ ] | T063 | Recibir y verificar swag, organizar por tallas | 2026-11-26 | oos | operaciones | |
 | [ ] | T038 | Asegurar que el espacio esté ordenado un día antes | 2026-11-27 | oos | operaciones |  |
 | [ ] | T050 | Recibir pedido en el venue | 2026-11-27 | oos | operaciones |  |
 | [ ] | T075 | Imprimir stickers con nombres (papel 2"×4") | 2026-11-27 | oos | operaciones |  |

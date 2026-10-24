@@ -7,7 +7,8 @@
     "test": "vitest run",
     "check": "tsx scripts/check.ts",
     "stamp": "tsx scripts/stamp-event.ts",
-    "index": "tsx scripts/build-index.ts"
+    "index": "tsx scripts/build-index.ts",
+    "mark": "tsx scripts/mark-task.ts"
   },
   "devDependencies": {
     "@types/node": "^22.20.5",

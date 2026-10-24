@@ -7,16 +7,20 @@ evento: "2026-11-28-SLP"
 
 Solo nombre y rol. Sin datos de contacto.
 
-| Rol            | Persona       | Confirmado    | Fuente                                                         |
-| -------------- | ------------- | ------------- | -------------------------------------------------------------- |
-| `ops_central`  | regina        | sí            | Default en todo evento nuevo                                   |
-| `partnerships` | damaris       | sí            | Default en todo evento nuevo                                   |
-| `mc` (host)    | por confirmar | por confirmar | Staff de la comunidad de SLP, nombre no incluido en la fuente  |
-| `oos`          | por confirmar | por confirmar | Staff de la comunidad de SLP, nombre no incluido en la fuente  |
-| `volunteer`    | por confirmar | por confirmar | Un voluntario de la comunidad, nombre no incluido en la fuente |
+| Rol            | Persona | Confirmado | Fuente                       |
+| -------------- | ------- | ---------- | ---------------------------- |
+| `ops_central`  | regina  | sí         | Default en todo evento nuevo |
+| `partnerships` | damaris | sí         | Default en todo evento nuevo |
+| `mc` (host)    | Milo    | sí         | Milo, 2026-10-24             |
+| `oos`          | Lalo    | sí         | Milo, 2026-10-24             |
+| `oos`          | Javier  | sí         | Milo, 2026-10-24             |
+| `volunteer`    | Ricardo | sí         | Milo, 2026-10-24             |
+| `volunteer`    | Elías   | sí         | Milo, 2026-10-24             |
+| `volunteer`    | Joaquín | sí         | Milo, 2026-10-24             |
 
-La fuente (2026-10-24) dice que SLP es el primer evento community-led: MC/host, un OOS y un voluntario de la comunidad, con su propio dashboard para marcar tareas. Faltan sus nombres y si ya confirmaron.
+Hay dos OOS y tres voluntarios. Cuando una tarea de rol `oos` tiene dos personas, hay que decidir quién la lleva.
 
 ## Pendiente
 
-- Nombres de MC, OOS y voluntario, y confirmación (cierra T052 y T053).
+- Repartir las tareas de OOS entre Lalo y Javier.
+- Confirmar con Regina que dos OOS y tres voluntarios están bien para la meta de 45.

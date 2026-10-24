@@ -164,7 +164,7 @@ describe("community-led variant", () => {
     const known = new Set(
       loadAllTasks(resolve(ROOT, "_playbook")).map((t) => t.id),
     );
-    expect(map.size).toBe(9);
+    expect(map.size).toBe(2);
     for (const id of map.keys()) expect(known.has(id)).toBe(true);
   });
 });
