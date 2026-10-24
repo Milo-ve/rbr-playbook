@@ -129,7 +129,7 @@ Registro: https://www.releasebeforeready.com/es/eventos/release-before-ready-san
   - Parque de Emprendimiento e Innovación, Tec de Monterrey SLP
   - $500 MXN · incluye coffee break, snacks, comida y swag
 - **CTA:** Regístrate en releasebeforeready.com
-- **Franja de logos:** RBR, Tec de Monterrey, Zillow, Intercom, Improvitz y Vravura. Los logos están en `../../03_sponsors/output/assets/`. Los de Improvitz y Vravura son de sus sitios web: el de Vravura es pequeño (264×76 px) y el de Improvitz usa texto del sistema, así que el equipo debería pedirles versiones para impresión.
+- **Franja de logos:** RBR, Tec de Monterrey, Zillow, Intercom, Improvitz y Vravura. Logos en `../../03_sponsors/output/assets/`: usar `improvitz-logo-hires.png` (transparente, 2490×872) y `vravura-logo-hires.jpg` (fondo blanco, 1280×853). Si el flyer es de fondo oscuro, el logo de Vravura necesita una versión con transparencia.
 
 ---
 

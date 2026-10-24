@@ -34,14 +34,19 @@ Carpeta `assets/`:
 - `zillow-qr.pdf`: QR hacia zillow.com/mxcareers, para el flyer o el WhatsApp.
 - `no-aplica_blinka-poster.jpeg`: cartel de Blinka. **Blinka no es sponsor de SLP: no usar.** Se conserva porque Milo lo guardó aquí; se puede borrar.
 
-Logos: de Zillow e Intercom recibidos (Milo, 2026-10-24). Los de Improvitz y Vravura se descargaron de sus sitios web el 2026-10-24:
+Logos: de Zillow e Intercom recibidos (Milo, 2026-10-24). Los de Improvitz y Vravura: primero se descargaron de sus sitios web (2026-10-24) y luego Milo envió versiones de mayor calidad. **Para el flyer usar los de alta calidad:**
 
-- `improvitz-logo.svg`: de improvitz.com. Es un SVG con el nombre como texto en la tipografía del sistema, así que otro programa puede mostrar otra letra; para el flyer conviene pedirles la versión con texto convertido a trazos. El color del texto es el del contexto (negro por defecto).
-- `vravura-logo-black.png` y `vravura-logo-white.png`: de vravura.com, 264×76 px y fondo transparente. La versión blanca solo se ve sobre fondo oscuro. Es pequeña para imprimir: pedir un archivo vectorial o de mayor resolución.
+- `improvitz-logo-hires.png`: 2490×872 px, fondo transparente. **Usar este.**
+- `vravura-logo-hires.jpg`: 1280×853 px, letras oscuras sobre fondo blanco (sin transparencia). La palabra mide unos 769 px de ancho, unas 3 veces más que la del sitio. **Usar este** sobre fondo claro; para fondo oscuro solo hay la versión blanca pequeña.
+
+Los del sitio se conservan como respaldo:
+
+- `improvitz-logo.svg`: vectorial, pero con el nombre como texto en la tipografía del sistema (otro programa puede mostrar otra letra). Útil solo si hace falta escalarlo mucho.
+- `vravura-logo-black.png` y `vravura-logo-white.png`: 264×76 px, fondo transparente. Demasiado chicos para imprimir; la versión blanca sirve para fondos oscuros en pantalla.
 
 ## Pendiente
 
-- Confirmar con Improvitz y Vravura que sus logos descargados del sitio son los vigentes y pedir versiones vectoriales o de mayor resolución para el flyer.
+- Si el flyer lleva fondo oscuro, falta una versión de alta resolución del logo de Vravura en blanco o con transparencia.
 - Etapa de Improvitz y Vravura (cerrada, facturada, cobrada): hoy no se sabe.
 - Estado de factura y cobro de los cuatro (T018). Los montos van en `private/`.
 - Si cada deal ya se registró (T016).
