@@ -27,7 +27,7 @@ Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Estados
 | [ ] | T009 | Anunciar en el grupo general de WhatsApp de RBR | 2026-10-24 | oos | adquisicion |  |
 | [x] | T017 | Pedir specs al sponsor: logo, perk, datos | 2026-10-24 | partnerships | sponsors | 2026-10-24 Milo: logos y perks recibidos de Zillow e Intercom |
 | [x] | T033 | Reservar (anticipo solo si el venue lo pide) | 2026-10-24 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
-| [ ] | T039 | Revisar directorio de caterers aprobados o buscar otros | 2026-10-24 | ops_central | operaciones |  |
+| [ ] | T039 | Revisar directorio de caterers aprobados o buscar otros | 2026-10-24 | ops_central | operaciones | 2026-10-24 Milo: catering se define la semana que entra |
 | [ ] | T058 | Definir número de piezas de swag (15% más que confirmados) | 2026-10-24 | ops_central | operaciones | |
 | [ ] | T059 | Elegir item del catálogo de swag | 2026-10-24 | ops_central | operaciones | |
 | [ ] | T019 | Avisar a Ops Central que agregue el logo a flyers y artes | 2026-10-28 | partnerships | sponsors |  |
