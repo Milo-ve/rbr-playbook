@@ -25,7 +25,7 @@ Generado al dar de alta el evento desde `_playbook/pilares/*/tareas.md`. Estados
 | [~] | T005 | Crear los artes (considerar sponsors cerrados e irlos actualizando) | 2026-10-24 | ops_central | adquisicion | 2026-10-24 solo textos de flyer en materiales.md; el diseño lo hace el equipo |
 | [~] | T008 | Primer correo a la base de datos (al activar) | 2026-10-24 | ops_central | adquisicion | 2026-10-24 borrador en 02_adquisicion/output/materiales.md; falta tu aprobación |
 | [ ] | T009 | Anunciar en el grupo general de WhatsApp de RBR | 2026-10-24 | oos | adquisicion |  |
-| [ ] | T017 | Pedir specs al sponsor: logo, perk, datos | 2026-10-24 | partnerships | sponsors |  |
+| [x] | T017 | Pedir specs al sponsor: logo, perk, datos | 2026-10-24 | partnerships | sponsors | 2026-10-24 Milo: logos y perks recibidos de Zillow e Intercom |
 | [x] | T033 | Reservar (anticipo solo si el venue lo pide) | 2026-10-24 | ops_central | operaciones | 2026-10-24 Milo: lugar 'Listo' |
 | [ ] | T039 | Revisar directorio de caterers aprobados o buscar otros | 2026-10-24 | ops_central | operaciones |  |
 | [ ] | T058 | Definir número de piezas de swag (15% más que confirmados) | 2026-10-24 | ops_central | operaciones | |

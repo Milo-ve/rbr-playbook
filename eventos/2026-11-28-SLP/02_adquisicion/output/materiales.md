@@ -18,7 +18,7 @@ generado: 2026-10-24
 - Registro: https://www.releasebeforeready.com/es/eventos/release-before-ready-san-luis-potosi-28-noviembre-2026
 - Giro: primera edición community-led de RBR en SLP, organizada por builders de la comunidad de desarrollo con IA
 
-**Sponsors:** ninguno nombrado, porque no hay sponsors ni perks confirmados para SLP. Cuando los haya, se agregan con su perk en el correo, el LinkedIn y el flyer.
+**Sponsors y perks:** Zillow e Intercom, confirmados por Milo el 2026-10-24, con los perks del recordatorio de perks que pegó. Los otros nombres de ese recordatorio (Dapta, Stripe, AWS, Blinka, Contalink) **no** están en las piezas hasta confirmar que aplican a SLP. Sin montos.
 
 ---
 
@@ -31,6 +31,8 @@ Si no conoces RBR: es un día para crear por el gusto de crear. Llegas con un pr
 Será el sábado 28 de noviembre, de 9:30 am a 10:00 pm, en el Parque de Emprendimiento e Innovación del Tec de Monterrey en San Luis Potosí.
 
 El boleto cuesta 500 pesos e incluye coffee break, snacks y comida durante todo el día, espacio de trabajo, internet de alta velocidad y swag.
+
+Hay perks de sponsors: Intercom da 100% de descuento el primer año en su programa para startups y Zillow tiene vacantes abiertas en México.
 
 Si trabajas con IA, si apenas estás empezando, o si llevas meses queriendo sacar ese proyecto del cajón, este es el día. Y si conoces a alguien de SLP que construya, pásale este mensaje.
 
@@ -62,6 +64,8 @@ Estos son los datos:
 
 El boleto incluye coffee break, snacks y comida durante todo el día, un gran espacio de trabajo, internet de alta velocidad y swag.
 
+Además tendremos perks de dos sponsors. Intercom ofrece 100% de descuento el primer año, 50% el segundo y 20% de descuento continuo con su programa para startups (intercom.com/startups-program). Zillow tiene vacantes abiertas en México y compartirá un QR para verlas (zillow.com/mxcareers).
+
 Lo que más nos gusta de estos días es la gente: construir amistades, aprender de otros y salir con ganas de seguir creando hasta el próximo evento. También formas parte de nuestra comunidad de WhatsApp, donde seguimos conversando entre ediciones.
 
 Si trabajas con IA, si apenas estás empezando o si quieres terminar por fin un proyecto pendiente, te esperamos. Registrarte toma un minuto:
@@ -86,7 +90,7 @@ Builders de la comunidad de desarrollo con IA de SLP organizan un día entero pa
 Sábado 28 de noviembre · 9:30 am a 10 pm
 Incluye coffee break, snacks, comida, internet de alta velocidad y swag.
 
-Boleto: $500 MXN.
+Boleto: $500 MXN. Con perks de Intercom y Zillow.
 
 Registro en el link de la bio.
 
@@ -106,6 +110,8 @@ Es el formato que empezamos en 500 Latam, ahora organizado por builders de la co
 📍 Parque de Emprendimiento e Innovación, Tec de Monterrey San Luis Potosí
 💸 $500 MXN. Incluye coffee break, snacks, comida, internet de alta velocidad y swag.
 
+Con perks de Intercom y Zillow.
+
 Si construyes con IA en San Luis Potosí o cerca, esta es la oportunidad de conocer a quienes lo hacen aquí. Comparte el post con alguien que deba estar.
 
 Registro: https://www.releasebeforeready.com/es/eventos/release-before-ready-san-luis-potosi-28-noviembre-2026
@@ -123,7 +129,7 @@ Registro: https://www.releasebeforeready.com/es/eventos/release-before-ready-san
   - Parque de Emprendimiento e Innovación, Tec de Monterrey SLP
   - $500 MXN · incluye coffee break, snacks, comida y swag
 - **CTA:** Regístrate en releasebeforeready.com
-- **Franja de logos:** por definir (RBR y Tec de Monterrey confirmados por la sede; sponsors, cuando haya confirmados)
+- **Franja de logos:** RBR, Tec de Monterrey, Zillow e Intercom (los logos de los sponsors ya fueron recibidos). Los demás sponsors del recordatorio, solo cuando se confirmen para SLP.
 
 ---
 
@@ -148,7 +154,7 @@ Registro: https://www.releasebeforeready.com/es/eventos/release-before-ready-san
 
 1. **Swag.** La página oficial lo anuncia, pero todavía se está cotizando. Si no llega a tiempo, quítalo de todas las piezas.
 2. **Giro.** Está redactado con tu propuesta. Alternativas, por si prefieres otra: "Hecha por builders de SLP, para SLP" o "La primera RBR que nace en la comunidad local".
-3. **Sponsors.** Ninguno está nombrado.
+3. **Sponsors y perks.** Solo Zillow e Intercom. Verifica que el perk de Intercom (100% el primer año, 50% el segundo, 20% continuo) sea el vigente y si el programa tiene requisitos de elegibilidad. Dapta, Stripe, AWS, Blinka y Contalink aparecen en el recordatorio de perks pero no están aquí hasta que confirmes que aplican a SLP.
 4. **Hashtags.** `#SanLuisPotosí` y `#SLP` son propuestas; no hay hashtags oficiales para esta edición.
 5. **"500 Latam".** El post de LinkedIn usa "500 Latam", como pide la guía original, aunque la página del evento escribe "500 Global".
 6. **Palabra "hackatón".** No se usa, porque la guía original no la usa. La página sí.
