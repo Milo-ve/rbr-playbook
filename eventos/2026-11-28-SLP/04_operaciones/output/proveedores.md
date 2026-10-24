@@ -17,8 +17,8 @@ El estado de cada proveedor se lee de las tareas, no de esta tabla.
 
 | Concepto                      | Con qué se cubre    |
 | ----------------------------- | ------------------- |
-| Swag, coffee break y locación | Presupuesto de SLP  |
-| Comida, pizzas y snacks       | Los boletos de $500 |
+| Comida, pizzas y facturas de proveedores | RBR las paga por adelantado; se espera recuperarlas con los boletos de $500 |
+| Swag, coffee break y locación | por confirmar quién los paga (no hay presupuesto separado) |
 | Café y agua básicos           | Los pone el Tec     |
 
 ## Por confirmar

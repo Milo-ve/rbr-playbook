@@ -17,7 +17,7 @@ Un evento operado por la comunidad local. El primero es San Luis Potosí (2026-1
 - Staff de la comunidad: MC/host, un OOS y un voluntario.
 - Presupuesto para **break even**; sin meta de sponsors.
 - Venue sin costo (Tec de Monterrey SLP), detalles con el MC local.
-- Swag: la fuente decía "sin swag, salvo patrocinio", pero Milo (2026-10-24) confirmó que el presupuesto de SLP sí cubre swag. Las tareas de swag **no** son condicionales.
+- Swag: la fuente decía "sin swag, salvo patrocinio", pero Milo (2026-10-24) confirmó que SLP sí tendrá swag (se cotiza la semana que entra). Las tareas de swag **no** son condicionales.
 - Sin premio de Dev Racing (por confirmar).
 - Sin viajes del equipo central.
 
@@ -32,7 +32,7 @@ La columna `Efecto` la lee el script de alta. `condicional` = la tarea se genera
 
 ## Efecto sobre el presupuesto y las métricas
 
-- Venue sin costo según la fuente (por confirmar: Milo dice que el presupuesto de SLP cubre "locación"); sin premio de Dev Racing ni viáticos de HQ; cortesías dadas por quien lidera.
-- Cómo se financia en SLP (Milo, 2026-10-24): los boletos cubren comida, pizzas y snacks; el presupuesto de SLP cubre swag, coffee break y locación.
+- Venue sin costo según la fuente (por confirmar: Milo menciona "locación" como costo); sin premio de Dev Racing ni viáticos de HQ; cortesías dadas por quien lidera.
+- Cómo se financia en SLP (Milo, 2026-10-24): no hay presupuesto separado; RBR adelanta catering y facturas y se espera recuperarlo con los boletos.
 - Semáforo de sponsors ⚪ (sin meta). Lo que se mide es el break even.
 - Quien es de la comunidad solo ve los sponsors y las finanzas de su evento.
