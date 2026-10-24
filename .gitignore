@@ -3,3 +3,5 @@ _private/
 inbox/
 node_modules/
 dist/
+eventos/*/*/private/
+*.private.md
