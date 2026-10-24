@@ -34,7 +34,7 @@ Ver [roles](../../shared/roles.md). Por defecto: `ops_central` y `partnerships` 
 1. **Alta** (`00_alta`): ficha del evento, roles; quien lidera da meta de asistentes, meta de sponsors, si es ciudad nueva, MC y OOS.
 2. **Tareas:** se generan desde las plantillas por pilar. Si el evento es del mismo día o pasado, solo las `post`, porque las `pre` saldrían vencidas.
 3. **Presupuesto preliminar** si ya hay fecha (ver [finanzas](../finanzas/playbook.md)).
-4. **Pre-evento:** avanzan las tareas de cada pilar. Si cambia la fecha, se renombra y se recalculan las abiertas; las tareas manuales se revisan a mano.
+4. **Pre-evento:** avanzan las tareas de cada pilar. Si cambia la fecha, se renombra la carpeta y se recalculan las fechas de las tareas abiertas; las manuales se revisan a mano. `por confirmar`: todavía no hay script que lo haga (pendiente).
 5. **Día del evento:** tareas `dia` y [run of show](../operaciones/piezas/run-of-show.md).
 6. **Cierre:** el evento sigue abierto hasta que todas sus tareas `post` estén hechas o no aplican; la última es T100. Pasos: export final, gastos reales, estado de cobro de cada deal, NPS, aprendizajes, P&L y estado → `done`.
 

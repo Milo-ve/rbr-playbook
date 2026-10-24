@@ -19,6 +19,7 @@ Este archivo solo dice dónde está cada cosa. El contenido vive en las carpetas
 
 | Quiero…                     | Voy a                                   |
 | --------------------------- | --------------------------------------- |
+| Soy nuevo, ¿por dónde?      | `EMPIEZA-AQUI.md`                       |
 | Entender el sistema         | `CONTEXT.md`                            |
 | Crear una ciudad nueva      | `setup/questionnaire.md`                |
 | Trabajar en un evento       | `eventos/<id>/CLAUDE.md`                |
