@@ -21,6 +21,7 @@ Este archivo solo dice dónde está cada cosa. El contenido vive en las carpetas
 | --------------------------- | --------------------------------------- |
 | Soy nuevo, ¿por dónde?      | `EMPIEZA-AQUI.md`                       |
 | Entender el sistema         | `CONTEXT.md`                            |
+| Ver el estado visual            | Tablero (enlace en `CONTEXT.md`)        |
 | Crear una ciudad nueva      | `setup/questionnaire.md`                |
 | Trabajar en un evento       | `eventos/<id>/CLAUDE.md`                |
 | Saber cómo se hace un pilar | `_playbook/pilares/<pilar>/playbook.md` |

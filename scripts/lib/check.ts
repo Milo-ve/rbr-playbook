@@ -39,6 +39,11 @@ export function isFuturePath(p: string): boolean {
   );
 }
 
+/** A currency marker followed by digits, e.g. `$1,200`, `USD 500`, `10000 MXN`. */
+export function hasMoneyAmount(text: string): boolean {
+  return /(\$|USD|MXN|EUR)\s?\d[\d,.]*|\d[\d,.]*\s?(USD|MXN|EUR)\b/.test(text);
+}
+
 export function extractLinks(markdown: string): string[] {
   const out: string[] = [];
   for (const m of markdown.matchAll(/\[[^\]]*\]\(([^)\s]+)\)/g)) {
@@ -119,6 +124,10 @@ export function runChecks(root: string): Issue[] {
         if (!existsSync(resolve(dir, p)))
           add("error", file, `entrada inexistente: ${p}`);
       }
+    }
+
+    if (/\/03_sponsors\/output\/[^/]+\.md$/.test(file) && hasMoneyAmount(text)) {
+      add("warn", file, "posible monto de dinero en un archivo versionado; los montos van en private/");
     }
 
     if (/_playbook\/pilares\/[^/]+\/(playbook|tareas)\.md$/.test(file)) {

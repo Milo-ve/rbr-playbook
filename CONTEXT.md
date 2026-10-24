@@ -47,3 +47,13 @@ Fechas relativas al día del evento (T). Las tareas exactas están en `eventos/<
 ## Scripts
 
 `npm run stamp` crea un evento nuevo · `npm run index` reconstruye el índice · `npm run check` valida la estructura.
+
+## Tablero (vista visual, solo lectura)
+
+Página generada desde este repositorio: https://claude.ai/artifact/TLYgcARwe4UMjJNKxarob9 (privada hasta que su dueño la comparta). Muestra días al evento, tareas vencidas, qué toca por rol, avance por pilar, etapas, sponsors (sin montos) y equipo. **No se edita ahí:** la verdad está en los archivos de `eventos/`. Es una foto: se actualiza cuando se pide.
+
+Para actualizarlo (lo hace Claude):
+
+1. `npm run dashboard-data` genera `dist/dashboard/*.json` (eventos, tareas, etapas, sponsors, equipo). Solo lee archivos de `output/`, nunca `private/`.
+2. Subir cada JSON como asset del tablero y, en cada documento `datasets/<id>`, actualizar `source.url` y `updated`.
+3. Revisar que `npm run check` pase antes de publicar.
