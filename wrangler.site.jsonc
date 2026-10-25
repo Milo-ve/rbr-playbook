@@ -1,0 +1,8 @@
+{
+  // Config for deploying dist/site as a Cloudflare Worker with static assets.
+  // Named wrangler.site.jsonc on purpose: a Pages project ignores it, a Workers project
+  // uses it with `npx wrangler deploy --config wrangler.site.jsonc`.
+  "name": "rbr-playbook",
+  "compatibility_date": "2026-10-01",
+  "assets": { "directory": "./dist/site" }
+}
